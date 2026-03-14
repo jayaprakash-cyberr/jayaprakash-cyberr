@@ -1,16 +1,58 @@
 ## Hi there 👋
+# Jayaprakash Perumallapalli
 
-<!--
-**jayaprakash-cyberr/jayaprakash-cyberr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Researcher | Ethical Hacker | Bug Bounty Hunter | Python Security Automation
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a cybersecurity researcher focused on vulnerability discovery, penetration testing, and security automation. I build offensive and defensive security tools to identify vulnerabilities, automate reconnaissance, and strengthen application security.
+
+---
+
+## Core Skills
+
+Python  
+Linux Security  
+Web Application Security  
+Network Security  
+Penetration Testing  
+Security Automation
+
+---
+
+## Security Tools Experience
+
+Nmap
+Burp Suite
+Wireshark
+Metasploit
+Kali Linux
+
+---
+
+## Current Security Projects
+
+AutoReconX – Autonomous Reconnaissance Framework
+
+SentinelIDS – Python-based Intrusion Detection System
+
+AI Web Vulnerability Scanner
+
+AI Phishing Detection System
+
+ReconAI Agent – AI driven bug bounty recon agent
+
+---
+
+## Learning Platforms
+
+TryHackMe  
+HackTheBox
+
+---
+
+## Contact
+
+Email: perumallapallijayaprakash@gmail.com
